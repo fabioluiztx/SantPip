@@ -1,4 +1,4 @@
-#Santander Dev Week 
+# Santander Dev Week 
 Explorando a IA Generativa com um Pipeline
 
 **Contexto:** Você é um cientista de dados no Santander e recebeu a tarefa de envolver seus clientes de maneira mais personalizada. Seu objetivo é usar o poder da IA Generativa para criar mensagens de marketing personalizadas que serão entregues a cada cliente.
